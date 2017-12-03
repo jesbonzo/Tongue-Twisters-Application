@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Tongue Twister App",
+  "short_name": "Tongue Twister App",
+  "version": "app.jessica.bonzo",
+  "description": "An entertaining App",
+  "author": "Jessica Joy B. Bonzo",
+  "icons": [],
+  "start_url": "index.html"
+}
